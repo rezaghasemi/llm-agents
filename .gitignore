@@ -2,3 +2,4 @@
 .others
 test.ipynb
 src/apikeys
+src/models/llma.cpp

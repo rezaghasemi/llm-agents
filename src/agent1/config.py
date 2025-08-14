@@ -2,7 +2,8 @@ from apikeys.openai import OPEN_AI_API_KEY
 
 
 OPENAI_API_KEY = OPEN_AI_API_KEY
-MODEL = "gpt-4o-mini"
+MODEL = "gpt-3.5-turbo"
+TABLE_NAME = "embeddings_vec"
 
 INITIAL_PROMPT = {
     "role": "system",
